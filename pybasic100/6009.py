@@ -1,0 +1,2 @@
+ppap = input()
+print(ppap)
